@@ -10,4 +10,5 @@
 	<div class="container">
 	<div class="logo">
 		<?php getCodeHeader();?>
+		<?php getCodeMenu('primary-menu');?>
 	</div>
